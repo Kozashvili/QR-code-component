@@ -1,0 +1,18 @@
+div {
+    width: 320px;
+    background-color: white;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 16px;
+  }
+  h1 {
+    font-size: 22px;
+    color: #1f314f;
+  }
+  p {
+    font-size: 15px;
+    color: #7d889e;
+  }
+  img {
+    border-radius: 10px;
+  }
